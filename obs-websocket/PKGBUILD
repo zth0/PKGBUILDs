@@ -1,4 +1,4 @@
-# Maintainer: Thomas Lovegrove <zth0@protonmail.com>
+# Maintainer: yhtez <yhtez@protonmail.com>
 pkgname=obs-websocket
 pkgver=4.8.0
 _obsver=25.0.8
